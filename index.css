@@ -1,0 +1,26 @@
+:root {
+    --container-clr: rgb(101, 142, 189);
+    --main-clr: rgb(247, 211, 7);
+    --div-bg: rgb(112, 12, 12);
+}
+
+.container {
+    width: 600px;
+    background-color: var(--container-clr);
+    height: 400px;
+}
+
+h1 {
+    color: var(--main-clr);
+    background-color: var(--div-bg);
+}
+
+h2 {
+    color: var(--main-clr);
+    background-color: var(--div-bg);
+}
+
+h3 {
+    color: var(--main-clr);
+    background-color: var(--div-bg);
+}
